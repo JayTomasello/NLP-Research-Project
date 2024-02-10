@@ -7,6 +7,7 @@ Conducted a sentiment analysis and created a topic model using a large dataset o
   - Libraries: NLTK, VADER, NRC Lexicon, Pandas, Matplotlib
 
 Project Report - Senior Research: https://github.com/JayTomasello/NLP-Research-Project/blob/99d8124f76a4c39a7a0b15dad82ed6658810127f/Final%20Report%20-%20Senior%20Research.pdf
+GMiS 2022 Research Conference Poster: https://github.com/JayTomasello/NLP-Research-Project/blob/94cdd4f49fb1c784249984f5df9af2aa95e1efc6/GMiS22-Joseph%20Tomasello-Poster.pptx%20(1).pdf
 
 References
 - [1] Dominguez, Hector Rodriguez. “Using Pushshift API for Data Analysis on Reddit.” Medium, MCD-UNISON, 14 Sept. 2021, https://medium.com/mcd-unison/using-pushshift-api-for-data-analysis-on-reddit-b08d339c48b8. 
