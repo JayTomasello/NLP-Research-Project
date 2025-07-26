@@ -4,7 +4,7 @@ Conducted a sentiment analysis and created a topic model using a large dataset o
 - Identified emotion and topic-based trends to uncover how the subject of mental health is discussed in online spaces
 - Generated graph-based visualizations using Python for results across all project areas
 - Programming Language: Python
-  - Libraries: NLTK, VADER, NRC Lexicon, Pandas, Matplotlib
+  - Libraries: NLTK, VADER, NRC Lexicon, Pandas, Matplotlib, BERTopic
 
 Project Report - Senior Research: https://github.com/JayTomasello/NLP-Research-Project/blob/99d8124f76a4c39a7a0b15dad82ed6658810127f/Final%20Report%20-%20Senior%20Research.pdf
 
